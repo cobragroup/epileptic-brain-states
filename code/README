@@ -1,0 +1,17 @@
+THIS FOLDER CONTAINS THE CODE, written in Matlab (version R2021a).
+
+THE MAIN SCRIPT OF INTEREST is script 'III_epileptic_brain_state_classification', the other two scripts prepare the data.
+
+The raw data (input to 'I_realdata_processing') are available online through URL https://osf.io/8cdz5/.
+
+To run the scripts, download the folder structure as given here with */code/, */var/, and */data/ sub-folders, 
+and set the path (and parameters, if you want) at the beginning of the scripts. 
+
+IF YOU HAVE ANY QUESTIONS, DO NOT HESITATE TO ASK:
+
+Isa Dallmer-Zerbe
+Institute of Computer Science
+The Czech Academy of Sciences
+Prague
+
+dallmer-zerbe@cs.cas.cz
